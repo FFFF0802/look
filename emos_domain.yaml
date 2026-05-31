@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,emosstore.sbs
+  - DOMAIN,你的Emby服务器地址

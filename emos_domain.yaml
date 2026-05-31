@@ -1,0 +1,5 @@
+payload:                  
+  # Emby 服务器域名
+  - 'emos.tuu.cc.cd'              
+  # 如果还有其他Emby相关域名，可在此继续添加
+  # - '*.sharepoint.com'
